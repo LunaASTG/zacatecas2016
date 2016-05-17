@@ -1,0 +1,4 @@
+* {
+    box-sizing: border-box;
+}
+@font-face { font-family: BigNoodleTitling; src: url('../extras/big_noodle_titling.ttf'); } 
